@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb+srv://Nitin:1234@tiles.btzra.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret":"MyJWToken"
+}

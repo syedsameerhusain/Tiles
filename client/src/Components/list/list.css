@@ -1,0 +1,61 @@
+.list {
+  padding-top: 150px;
+}
+.listtt {
+  padding-top: 100px;
+}
+.org {
+  width: 40%;
+  float: left;
+}
+.rating {
+  width: 40%;
+  float: left;
+}
+.btn {
+  width: 80px;
+  margin-top: 50px;
+}
+input {
+  margin-top: 15px;
+}
+label {
+  font-size: 15px;
+  font-weight: bold;
+}
+.datas-o {
+  width: 35px;
+  float: left;
+}
+.datas-r {
+  width: 35px;
+  float: left;
+}
+/* .org {
+  width: 40%;
+  float: left;
+}
+.datas {
+  padding-right: 15px;
+  width: 50px;
+}
+.btn {
+  width: 80px;
+  margin-left: 350px;
+  align-items: center;
+}*/
+.filter {
+  background-color: rgb(220, 20, 170);
+  border: 5px solid red;
+  border-radius: 15px;
+  width: 75%;
+  align-items: stretch;
+  margin: auto;
+  height: 125px;
+}
+/*.rating {
+  width: 40%;
+  display: block;
+  float: left;
+  height: 160px;
+} */
